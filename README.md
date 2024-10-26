@@ -17,7 +17,7 @@
 
 You can install the package via pip:
 
-```bash
+# bash install
 pip install abdulpy
 
 # Importing package
@@ -31,3 +31,5 @@ print(subtract_num(5, 3))  # Output: 2
 print(multiply_num(5, 3))  # Output: 15
 print(divide_num(5, 3))    # Output: 1.666...
 print(modulus_num(5, 3))   # Output: 2
+
+
