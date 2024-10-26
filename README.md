@@ -23,6 +23,7 @@ pip install abdulpy
 # Importing package
 import abdulpy
 
+'''bash
 # basic arithmeric operations
 from abdulpy import add_num, subtract_num, multiply_num, divide_num, modulus_num
 
